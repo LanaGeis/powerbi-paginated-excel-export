@@ -101,7 +101,10 @@ Power BI Report Builder was used to configure the paginated export component.
 
 Paginated reports were chosen because they provide stronger control over tabular layout and export formatting than standard Power BI dashboard exports.
 
-![Paginated Report Setup](../images/paginated-report-setup.png)
+![Connect to Power BI semantic model](../images/connect-to-semantic-model.png)
+![Create Dataset](../images/create-datasetl.png)
+![Configure report Layout](../images/configure-report-layout.png)
+![Create Parameters](../images/create-parameters.png)
 
 ---
 
