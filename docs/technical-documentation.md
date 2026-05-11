@@ -214,6 +214,36 @@ The semantic model and paginated report were published to Power BI Service.
 
 ![Service Deployment](../images/service-deployment.png)
 
+### Best Practice Structure
+Workspace: Dev
+Workspace: Test
+Workspace: Prod
+
+Prod App:
+- Dashboard
+- Paginated Excel Export Report
+- Instructions page
+
+### Multi-User Deployment Best Practices
+
+This solution can support multiple end users through a shared semantic model, shared dashboard, and parameter-driven paginated report.
+
+Each user should access the solution through a Power BI App rather than direct workspace access. Users select filters in the dashboard and use the export button to open the paginated report with the selected parameter values.
+
+For secure user-specific data access, Row-Level Security should be applied in the semantic model. This ensures users only see data they are authorized to view, both in the dashboard and in the exported Excel report.
+
+Recommended setup:
+- one governed semantic model
+- one main dashboard
+- one reusable paginated report
+- parameter-based filtering
+- Power BI App distribution
+- security groups for access control
+- Row-Level Security for user-specific data
+- validation of exported Excel files by user role
+
+Avoid creating separate copies of the same report for each user unless the layout, data logic, or business rules are truly different.
+
 ---
 
 ## 12. Troubleshooting and Lessons Learned
