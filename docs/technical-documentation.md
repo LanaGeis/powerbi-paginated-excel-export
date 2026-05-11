@@ -1,16 +1,16 @@
 # Power BI Paginated Excel Export Solution – Technical Documentation
 
 ## 1. Executive Summary
-This project presents an enterprise-style Power BI export solution designed to support operational reporting needs that go beyond standard dashboard interaction. The solution combines an ODBC-connected source system, a Power BI semantic model, an interactive dashboard, and a paginated report to generate structured Excel exports.
+This project presents an enterprise-style Power BI export solution designed to support operational reporting needs that go beyond standard dashboard interaction. The solution combines an ODBC-connecte[...]
 
 The goal was to provide users with a reporting process that preserves data quality, formatting, and usability while maintaining centralized governance through the Power BI semantic model.
 
-![Final Dashboard](../images/dashboard.png)
+![Final Dashboard](../images/Dashboard.png)
 
 ---
 
 ## 2. Business Problem
-Standard Power BI exports were not sufficient for the operational reporting requirements of end users. While dashboards supported filtering and analysis, the exported output often required additional formatting or restructuring before it could be used in business processes.
+Standard Power BI exports were not sufficient for the operational reporting requirements of end users. While dashboards supported filtering and analysis, the exported output often required additional [...]
 
 Challenges included:
 - inconsistent export structure
