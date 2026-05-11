@@ -5,7 +5,7 @@ This project presents an enterprise-style Power BI export solution designed to s
 
 The goal was to provide users with a reporting process that preserves data quality, formatting, and usability while maintaining centralized governance through the Power BI semantic model.
 
-![Final Dashboard](../images/dashboard-overview.png)
+![Final Dashboard](../images/dashboard.png)
 
 ---
 
