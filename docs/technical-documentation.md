@@ -20,8 +20,6 @@ Challenges included:
 
 This solution was designed to eliminate those pain points through a more controlled export mechanism.
 
-![Export Issue Example](../images/export-issue-example.png)
-
 ---
 
 ## 3. Solution Architecture
