@@ -63,7 +63,7 @@ A star schema was used to support efficient reporting and reusable business logi
 - improved maintainability and report consistency
 - stronger governance than direct report-to-database connections
 
-![Semantic Model](../images/Semantic model.png)
+![Semantic Model](../images/semantic-model.png)
 
 ---
 
