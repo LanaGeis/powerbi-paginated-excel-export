@@ -48,8 +48,6 @@ The first step in the solution was establishing an ODBC connection to the source
 - confirm source reliability before report development
 - standardize naming conventions during ingestion
 
-![ODBC Connection Setup](../images/odbc-setup.png)
-
 ---
 
 ## 5. Power BI Semantic Model
@@ -65,7 +63,7 @@ A star schema was used to support efficient reporting and reusable business logi
 - improved maintainability and report consistency
 - stronger governance than direct report-to-database connections
 
-![Semantic Model](../images/semantic-model.png)
+![Semantic Model](../images/Semantic model.png)
 
 ---
 
