@@ -1,5 +1,6 @@
 # Power BI Paginated Excel Export Solution
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/lanageis/powerbi-paginated-excel-export)
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blueviolet?style=for-the-badge)](./demo.zip)
 
 Enterprise-style reporting solution built with **Power BI**, **semantic models**, and **paginated reports** to deliver clean, structured, Excel-friendly exports for operational reporting.
