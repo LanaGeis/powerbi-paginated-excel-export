@@ -1,5 +1,7 @@
 # Power BI Paginated Excel Export Solution
 
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blueviolet?style=for-the-badge)](./demo.zip)
+
 Enterprise-style reporting solution built with **Power BI**, **semantic models**, and **paginated reports** to deliver clean, structured, Excel-friendly exports for operational reporting.
 
 ## Project Overview
@@ -11,7 +13,7 @@ This project demonstrates how to build a governed reporting workflow that combin
 - **paginated report exports**
 - **Excel-safe output formatting**
 
-The solution addresses a common business problem: standard Power BI exports are often not sufficient for operational reporting where users need structured, reusable, and properly formatted Excel outputs.
+The solution addresses a common business problem: standard Power BI exports are often not sufficient for operational reporting where users need structured, reusable, and properly formatted Excel output.
 
 ## Business Value
 This solution improves reporting operations by:
